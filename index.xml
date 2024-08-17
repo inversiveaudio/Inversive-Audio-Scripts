@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Inversive Audio Scripts" commit="fb00e9dc5b0ee03390bf2901c4f7e2ac48395dfc">
+<index version="1" name="Inversive Audio Scripts" commit="4e9828b9e339fe29ae2430615d036fdafba6c554">
   <category name="Example">
-    <reapack name="cfillion_Hello world.lua" type="script" desc="TestTest">
+    <reapack name="cfillion_Hello world.lua" type="script" desc="Test Script">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
@@ -24,8 +24,8 @@ This is a link
 {\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Bullet list item 2\sa180\par}
 }
 ]]></description>
-        <link rel="website">https://github.com</link>
-        <link rel="donation">https://github.com</link>
+        <link rel="website">https://inversiveaudio.com</link>
+        <link rel="donation">https://paypal.me/inversiveaudio</link>
       </metadata>
       <version name="1.0" author="cfillion" time="2021-01-04T23:30:32Z">
         <source main="main">https://github.com/cfillion/reapack-repository-template/raw/58a3e39ba95bd0f35846aa1f39aa4cb2574295e1/Example/cfillion_Hello%20world.lua</source>
@@ -44,6 +44,9 @@ This is a link
       </version>
       <version name="1.31" author="Test | Test" time="2024-08-17T18:15:13Z">
         <source main="main">https://github.com/inversiveaudio/test/raw/fb00e9dc5b0ee03390bf2901c4f7e2ac48395dfc/Example/cfillion_Hello%20world.lua</source>
+      </version>
+      <version name="1.32" author="Inversive Audio" time="2024-08-17T18:30:42Z">
+        <source main="main">https://github.com/inversiveaudio/test/raw/4e9828b9e339fe29ae2430615d036fdafba6c554/Example/cfillion_Hello%20world.lua</source>
       </version>
     </reapack>
   </category>
