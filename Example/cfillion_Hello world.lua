@@ -1,9 +1,15 @@
 --[[----------------------------------------------------------------------------------
 @description Test Script
-@version 1.34
+@version 1.35
 @author Inversive Audio
 @link https://inversiveaudio.com
 @donation https://paypal.me/inversiveaudio
+@license test
+@changelog
+  Remove Beta context inject function
+  DropDown mode reset last action if no item is hovered
+@provides
+   [main=main] cfillion_Hello world.lua
 @about
   # Test
   This is an example of a package file. It installs itself as a ReaScript that
@@ -22,10 +28,6 @@
   About:
      - Bullet list item 1
      - Bullet list item 2
-
-@changelog
-  Documented the metadata syntax
-  Added support for deleted scripts
 ------------------------------------------------------------------------------------]]
 
 reaper.ShowConsoleMsg 'Hello World! Testing!'
