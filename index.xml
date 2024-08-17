@@ -29,7 +29,7 @@ Markdown
 {\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 Inversive Audio | ReaPack Repository\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 In REAPER, add this URL to {\i Extensions > ReaPack > Import repositories...}:\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 {\field{\*\fldinst{HYPERLINK "https://github.com/inversiveaudio/test/raw/master/index.xml"}}{\fldrslt{\ul
-https://github.com/{\f1 inversiveaudio}/{\f1 test}/raw/master/index.xml
+https://github.com/inversiveaudio/test/raw/master/index.xml
 }}}
 \par}
 }
