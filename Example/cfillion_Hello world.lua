@@ -6,7 +6,7 @@
 @version 1.1
 -------------------------------------------------------------------------------------
 @about
-# Test
+
    This is an example of a package file. It installs itself as a ReaScript that
    does nothing but show "Hello World!" in REAPER's scripting console.
 
@@ -23,6 +23,7 @@
 About:
   - Bullet list item 1
   - Bullet list item 2
+
 --------------------------------------------------------------------------------------
 @link https://github.com
 ------------------------------------------------------------------------------------]]
