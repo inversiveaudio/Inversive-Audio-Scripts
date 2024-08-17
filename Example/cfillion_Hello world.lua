@@ -1,11 +1,14 @@
 --[[---------------------------------------------------------------------------------
+Test ReaPack Script
+-------------------------------------------------------------------------------------
+
 @description test description
--------------------------------------------------------------------------------------
 @author cfillion test
+@link https://github.com
+@VERSION 1.1
+
 -------------------------------------------------------------------------------------
-@version 1.1
--------------------------------------------------------------------------------------
-@about
+@ABOUT
 
    This is an example of a package file. It installs itself as a ReaScript that
    does nothing but show "Hello World!" in REAPER's scripting console.
@@ -15,17 +18,15 @@
    This text is the documentation shown when using ReaPack's "About this package"
    feature. [Markdown](https://commonmark.org/) *formatting* is supported.
 
-  # Header Line
+   Header Line
 
-  Hello *World*
-  [This is a link](https://google.com)
+   Hello *World*
+   [This is a link](https://google.com)
 
-About:
-  - Bullet list item 1
-  - Bullet list item 2
+ About:
+   - Bullet list item 1
+   - Bullet list item 2
 
---------------------------------------------------------------------------------------
-@link https://github.com
 ------------------------------------------------------------------------------------]]
 
 reaper.ShowConsoleMsg 'Hello World! Testing!'
