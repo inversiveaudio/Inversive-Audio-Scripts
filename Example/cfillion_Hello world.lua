@@ -2,10 +2,10 @@
 @description TestTest
 -------------------------------------------------------------------------------------
 
+@version 1.2
 @author Test | Test
 @link https://github.com
 @donation https://github.com
-@version 1.1.1
 
 -------------------------------------------------------------------------------------
 @about
