@@ -1,4 +1,4 @@
-# Inversive Audio | ReaPack Repository
+# Inversive Audio ReaPack Repository
 
 In REAPER, add this URL to *Extensions > ReaPack > Import repositories...*:
 
