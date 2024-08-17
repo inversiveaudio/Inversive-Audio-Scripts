@@ -23,6 +23,8 @@
      - Bullet list item 1
      - Bullet list item 2
 
+@changelog
+    - **woooo**
 ------------------------------------------------------------------------------------]]
 
 reaper.ShowConsoleMsg 'Hello World! Testing!'
