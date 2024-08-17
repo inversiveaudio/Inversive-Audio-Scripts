@@ -1,15 +1,15 @@
 --[[---------------------------------------------------------------------------------
-Test ReaPack Script
+@description TestTest
 -------------------------------------------------------------------------------------
 
-@description test description
-@author test
+@author Test | Test
 @link https://github.com
 @donation https://github.com
-@version 1.1
+@version 1.1.1
 
 -------------------------------------------------------------------------------------
 @about
+-------------------------------------------------------------------------------------
 
 This is an example of a package file. It installs itself as a ReaScript that
 does nothing but show "Hello World!" in REAPER's scripting console.
