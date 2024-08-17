@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Inversive Audio Scripts" commit="a726fd3622512b03584f906fadf3b7e93cafdcb8">
+<index version="1" name="Inversive Audio Scripts" commit="fb00e9dc5b0ee03390bf2901c4f7e2ac48395dfc">
   <category name="Example">
     <reapack name="cfillion_Hello world.lua" type="script" desc="TestTest">
       <metadata>
@@ -7,13 +7,14 @@
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
-{\pard \ql \f0 \sa180 \li0 \fi0 #Test This is an example of a package file. It installs itself as a ReaScript that does nothing but show "Hello World!" in REAPER's scripting console.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 Test\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 This is an example of a package file. It installs itself as a ReaScript that does nothing but show "Hello World!" in REAPER's scripting console.\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 Packages may also include additional files specified using the @provides tag.\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 This text is the documentation shown when using ReaPack's "About this package" feature. {\field{\*\fldinst{HYPERLINK "https://commonmark.org/"}}{\fldrslt{\ul
 Markdown
 }}}
  {\i formatting} is supported.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Header Line\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 Header Line\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 Hello {\i World} {\field{\*\fldinst{HYPERLINK "https://google.com"}}{\fldrslt{\ul
 This is a link
 }}}
@@ -40,6 +41,9 @@ This is a link
       </version>
       <version name="1.3" time="2024-08-17T17:59:50Z">
         <source main="main">https://github.com/inversiveaudio/test/raw/62fea6adcdf342f1014d2e7b55985bc9391e9cff/Example/cfillion_Hello%20world.lua</source>
+      </version>
+      <version name="1.31" author="Test | Test" time="2024-08-17T18:15:13Z">
+        <source main="main">https://github.com/inversiveaudio/test/raw/fb00e9dc5b0ee03390bf2901c4f7e2ac48395dfc/Example/cfillion_Hello%20world.lua</source>
       </version>
     </reapack>
   </category>
