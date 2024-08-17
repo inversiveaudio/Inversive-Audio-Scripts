@@ -1,6 +1,6 @@
 --[[----------------------------------------------------------------------------------
 @description Test Script
-@version 1.32
+@version 1.33
 @author Inversive Audio
 @link https://inversiveaudio.com
 @donation https://paypal.me/inversiveaudio
@@ -24,8 +24,11 @@
      - Bullet list item 2
 
 @changelog
-    - **woooo**
-    - *hoo*
+  Documented the metadata syntax
+  Added support for deleted scripts
+
+Changelog:
+  Added an alternate syntax for metadata tags
 ------------------------------------------------------------------------------------]]
 
 reaper.ShowConsoleMsg 'Hello World! Testing!'
