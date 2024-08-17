@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Inversive Audio Scripts" commit="2dca55af68608aafe8dd70293134b3527ec54e64">
+<index version="1" name="Inversive Audio Scripts" commit="5271d0dac243b750a7a8cb5dc5ee29d5ac01f359">
   <category name="Example">
     <reapack name="cfillion_Hello world.lua" type="script" desc="Test Script">
       <metadata>
@@ -50,6 +50,9 @@ This is a link
       </version>
       <version name="1.33" author="Inversive Audio" time="2024-08-17T18:38:13Z">
         <source main="main">https://github.com/inversiveaudio/test/raw/2dca55af68608aafe8dd70293134b3527ec54e64/Example/cfillion_Hello%20world.lua</source>
+      </version>
+      <version name="1.34" author="Inversive Audio" time="2024-08-17T18:45:36Z">
+        <source main="main">https://github.com/inversiveaudio/test/raw/5271d0dac243b750a7a8cb5dc5ee29d5ac01f359/Example/cfillion_Hello%20world.lua</source>
       </version>
     </reapack>
   </category>
