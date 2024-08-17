@@ -1,7 +1,7 @@
 --[[
 
 @description TestTest
-@version 1.2.1
+@version 1.3
 @author Test | Test
 @link https://github.com
 @donation https://github.com
