@@ -1,11 +1,11 @@
 --[[----------------------------------------------------------------------------------
 @description TestTest
-@version 1.3
+@version 1.31
 @author Test | Test
 @link https://github.com
 @donation https://github.com
 @about
-  #Test
+  # Test
   This is an example of a package file. It installs itself as a ReaScript that
   does nothing but show "Hello World!" in REAPER's scripting console.
   
@@ -14,7 +14,7 @@
   This text is the documentation shown when using ReaPack's "About this package"
   feature. [Markdown](https://commonmark.org/) *formatting* is supported.
   
-  Header Line
+  # Header Line
   
   Hello *World*
   [This is a link](https://google.com)
