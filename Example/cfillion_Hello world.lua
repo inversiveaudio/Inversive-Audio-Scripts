@@ -1,9 +1,9 @@
 --[[----------------------------------------------------------------------------------
-@description TestTest
-@version 1.31
-@author Test | Test
-@link https://github.com
-@donation https://github.com
+@description Test Script
+@version 1.32
+@author Inversive Audio
+@link https://inversiveaudio.com
+@donation https://paypal.me/inversiveaudio
 @about
   # Test
   This is an example of a package file. It installs itself as a ReaScript that
@@ -25,6 +25,7 @@
 
 @changelog
     - **woooo**
+    - *hoo*
 ------------------------------------------------------------------------------------]]
 
 reaper.ShowConsoleMsg 'Hello World! Testing!'
