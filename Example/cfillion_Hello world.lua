@@ -1,13 +1,11 @@
---[[
+--[[--------------------------------------------------------------------------------
+
 @description TestTest
 @version 1.2
 @author Test | Test
 @link https://github.com
 @donation https://github.com
-
--------------------------------------------------------------------------------------
 @about
--------------------------------------------------------------------------------------
 
 This is an example of a package file. It installs itself as a ReaScript that
 does nothing but show "Hello World!" in REAPER's scripting console.
