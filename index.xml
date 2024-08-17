@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Inversive Audio Scripts" commit="5271d0dac243b750a7a8cb5dc5ee29d5ac01f359">
+<index version="1" name="Inversive Audio Scripts" commit="14c8481848ace75dcef85331e842d6a4570d8547">
   <category name="Example">
     <reapack name="cfillion_Hello world.lua" type="script" desc="Test Script">
       <metadata>
@@ -53,6 +53,11 @@ This is a link
       </version>
       <version name="1.34" author="Inversive Audio" time="2024-08-17T18:45:36Z">
         <source main="main">https://github.com/inversiveaudio/test/raw/5271d0dac243b750a7a8cb5dc5ee29d5ac01f359/Example/cfillion_Hello%20world.lua</source>
+      </version>
+      <version name="1.35" author="Inversive Audio" time="2024-08-17T18:59:21Z">
+        <changelog><![CDATA[Remove Beta context inject function
+DropDown mode reset last action if no item is hovered]]></changelog>
+        <source main="main">https://github.com/inversiveaudio/test/raw/14c8481848ace75dcef85331e842d6a4570d8547/Example/cfillion_Hello%20world.lua</source>
       </version>
     </reapack>
   </category>
